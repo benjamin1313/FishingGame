@@ -1,0 +1,3 @@
+waves.mp3 is from https://freesound.org/people/Noted451/sounds/531015/
+splash.wav is from https://opengameart.org/content/water-splash-yo-frankie
+The game was made with the raylib library https://www.raylib.com/
